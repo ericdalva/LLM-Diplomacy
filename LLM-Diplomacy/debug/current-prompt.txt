@@ -1,0 +1,629 @@
+Diplomacy Game Session - Player Brief
+
+Hello! Today we will play a game of Diplomacy. Below are the rules and procedures:
+
+CORE RULES
+
+Game Rules
+THE RULES OF DIPLOMACY
+# Diplomacy Rules Summary
+
+## Core Game Concepts
+- 7 players represent Great Powers: England, Germany, Russia, Turkey, Austria-Hungary, Italy, France
+- Win condition: Control 18 supply centers
+- Game board divided into provinces and water bodies
+- Two unit types: Armies (land) and Fleets (water/coastal)
+- No random elements except initial country assignment
+
+## Game Structure
+- Alternating Spring/Fall moves
+- 30-minute diplomacy period before first move, 15 minutes thereafter
+- Players can make any agreements but aren't bound by them
+- All orders revealed simultaneously
+
+## Supply Centers
+- 34 total supply centers on board (marked with black dots)
+- Units can only exist if supported by supply centers
+- Control changes only during Fall moves
+- New units can only be built in home supply centers
+
+## Movement Rules
+- Only one unit per space
+- Units can move to adjacent spaces
+- Fleets restricted to water/coastal provinces, following coastlines
+- Armies can't enter water spaces
+- Special rules for Kiel, Constantinople, Bulgaria, Spain, St. Petersburg (dual coasts)
+- Sweden/Denmark connection allows both unit types
+
+## Combat System
+- Equal strength units cause standoffs
+- Support orders increase unit strength
+- Supported units can dislodge weaker units
+- Dislodged units must retreat or be disbanded
+- Cannot self-dislodge but can self-standoff
+
+## Orders
+1. Move: Unit enters adjacent space
+2. Hold: Unit stays in place
+3. Support: Unit adds strength to another unit's action
+   - Must be able to reach supported space
+   - Cut if attacked from different space
+4. Convoy (Fleets only): Transport armies across water
+   - Multiple fleets can chain convoys
+   - Disrupted if convoying fleet dislodged
+   - Multiple convoy routes possible
+
+## Retreats
+- Must move to vacant adjacent space
+- Cannot retreat to:
+  - Occupied spaces
+  - Attacker's original space
+  - Standoff spaces
+- Failed retreats result in disbandment
+
+## Unit Adjustment (After Fall Moves)
+- Add/remove units to match supply center count
+- New units placed in vacant home supply centers
+- Excess units removed at owner's choice
+
+## Special Rules
+- Support can't be convoyed
+- Three+ units can rotate positions
+- Units can exchange places if convoyed
+- Fleets in Kiel/Constantinople can't convoy
+- Civil disorder: Units hold without support
+
+## Variant Player Counts
+- 6 players: Remove Italy
+- 5 players: Remove Italy and Germany
+- 4 players: One plays England, others play country pairs
+- 3 players: Play country groups
+- 2 players: WWI scenario (Allies vs Central Powers)
+Communication & Coordination
+
+Each game season has 3 round of conversation. Followed by an orders phase and an optional retreat and build phase.
+Speaking Order: Players communicate in alphabetical order by country name (e.g., Austria -> England -> France -> etc.). Each player may initiate one private conversation per turn. by starting their message with the name of the Power they would like to message.
+Make sure that the name of the player you would like to message is in the first line of the message or the message will not be sent.
+The message is any text you output during a conversation phase which is not wrapped in <scratch> </scratch> or <think></think> tags.
+A conversation ends after 6 total messages have been sent (a message from you + a reply from your partner is 2 messages) or either player outputs <END>.
+If you output <END> do not output any other text you will get the chance to submit orders later.
+
+Scratch Pad Usage
+
+Use <scratch> Your private notes here </scratch> to add notes.
+Notes are private, persistent across seasons, and never shared.
+
+Update your scratch pad:
+BEFORE conversations (plan strategy)
+AFTER conversations (record agreements/observations)
+BEFORE submitting orders (finalize decisions)
+
+Use <think> </think> to think if you feel the need to. Content between the think tags is not recorded or sent to other players.
+
+Try to be concise in your messages and thoughts.
+
+
+=== CURRENT GAME STATUS ===
+Season: S1901M
+Your Role: Austria
+
+YOUR FORCES:
+- A BUD
+- A VIE
+- F TRI
+
+CONTROLLED SUPPLY CENTERS:
+BUD, TRI, VIE
+
+
+=== FULL MAP OVERVIEW ===
+(SC=Supply Center, A=Army, F=Fleet)
+Format: Region (Type) [Owner] - Units/Status - Adjacent Regions
+-------------------------------------------------------------
+ADR (Water)
+[Neutral]
+No units
+Connects to: ALB, APU, ION, TRI, VEN
+
+AEG (Water)
+[Neutral]
+No units
+Connects to: BUL/SC, CON, EAS, GRE, ION, SMY
+
+ALB (Coast)
+[Neutral]
+No units
+Connects to: ADR, GRE, ION, SER, TRI
+
+ANK (Coast SC)
+[TURKEY]
+- Units: F ANK
+Connects to: ARM, BLA, CON, smy
+
+APU (Coast)
+[Neutral]
+No units
+Connects to: ADR, ION, NAP, rom, VEN
+
+ARM (Coast)
+[Neutral]
+No units
+Connects to: ANK, BLA, SEV, smy, syr
+
+BAL (Water)
+[Neutral]
+No units
+Connects to: BER, BOT, DEN, LVN, KIE, PRU, SWE
+
+BAR (Water)
+[Neutral]
+No units
+Connects to: NWY, NWG, STP/NC
+
+BEL (Coast SC)
+[Neutral]
+No units
+Connects to: BUR, ENG, HOL, NTH, PIC, RUH
+
+BER (Coast SC)
+[GERMANY]
+- Units: A BER
+Connects to: BAL, KIE, MUN, PRU, SIL
+
+BLA (Water)
+[Neutral]
+No units
+Connects to: ANK, ARM, BUL/EC, CON, RUM, SEV
+
+BOH (Land)
+[Neutral]
+No units
+Connects to: GAL, MUN, SIL, TYR, VIE
+
+BOT (Water)
+[Neutral]
+No units
+Connects to: BAL, FIN, LVN, STP/SC, SWE
+
+BRE (Coast SC)
+[FRANCE]
+- Units: F BRE
+Connects to: ENG, GAS, MAO, PAR, PIC
+
+BUD (Land SC)
+[AUSTRIA]
+- Units: A BUD
+Connects to: GAL, RUM, SER, TRI, VIE
+
+BUL/EC (Coast)
+[Neutral]
+No units
+Connects to: BLA, CON, RUM
+
+BUL/SC (Coast)
+[Neutral]
+No units
+Connects to: AEG, CON, GRE
+
+BUR (Land)
+[Neutral]
+No units
+Connects to: BEL, GAS, RUH, MAR, MUN, PAR, PIC, SWI
+
+CLY (Coast)
+[Neutral]
+No units
+Connects to: EDI, LVP, NAO, NWG
+
+CON (Coast SC)
+[TURKEY]
+- Units: A CON
+Connects to: AEG, BUL/EC, BUL/SC, BLA, ANK, SMY
+
+DEN (Coast SC)
+[Neutral]
+No units
+Connects to: BAL, HEL, KIE, NTH, SKA, SWE
+
+EAS (Water)
+[Neutral]
+No units
+Connects to: AEG, ION, SMY, SYR
+
+EDI (Coast SC)
+[ENGLAND]
+- Units: F EDI
+Connects to: CLY, lvp, NTH, NWG, YOR
+
+ENG (Water)
+[Neutral]
+No units
+Connects to: BEL, BRE, IRI, LON, MAO, NTH, PIC, WAL
+
+FIN (Coast)
+[Neutral]
+No units
+Connects to: BOT, nwy, STP/SC, SWE
+
+GAL (Land)
+[Neutral]
+No units
+Connects to: BOH, BUD, RUM, SIL, UKR, VIE, WAR
+
+GAS (Coast)
+[Neutral]
+No units
+Connects to: BUR, BRE, MAO, mar, PAR, SPA/NC
+
+GRE (Coast SC)
+[Neutral]
+No units
+Connects to: AEG, ALB, BUL/SC, ION, SER
+
+HEL (Water)
+[Neutral]
+No units
+Connects to: DEN, HOL, KIE, NTH
+
+HOL (Coast SC)
+[Neutral]
+No units
+Connects to: BEL, HEL, KIE, NTH, RUH
+
+ION (Water)
+[Neutral]
+No units
+Connects to: ADR, AEG, ALB, APU, EAS, GRE, NAP, TUN, TYS
+
+IRI (Water)
+[Neutral]
+No units
+Connects to: ENG, LVP, MAO, NAO, WAL
+
+KIE (Coast SC)
+[GERMANY]
+- Units: F KIE
+Connects to: BAL, BER, DEN, HEL, HOL, MUN, RUH
+
+LON (Coast SC)
+[ENGLAND]
+- Units: F LON
+Connects to: ENG, NTH, YOR, WAL
+
+LVN (Coast)
+[Neutral]
+No units
+Connects to: BAL, BOT, MOS, PRU, STP/SC, WAR
+
+LVP (Coast SC)
+[ENGLAND]
+- Units: A LVP
+Connects to: CLY, edi, IRI, NAO, WAL, yor
+
+LYO (Water)
+[Neutral]
+No units
+Connects to: MAR, PIE, SPA/SC, TUS, TYS, WES
+
+MAO (Water)
+[Neutral]
+No units
+Connects to: BRE, ENG, GAS, IRI, NAF, NAO, POR, SPA/NC, SPA/SC, WES
+
+MAR (Coast SC)
+[FRANCE]
+- Units: A MAR
+Connects to: BUR, gas, LYO, PIE, SPA/SC, SWI
+
+MOS (Land SC)
+[RUSSIA]
+- Units: A MOS
+Connects to: LVN, SEV, STP, UKR, WAR
+
+MUN (Land SC)
+[GERMANY]
+- Units: A MUN
+Connects to: BER, BOH, BUR, KIE, RUH, SIL, TYR, SWI
+
+NAF (Coast)
+[Neutral]
+No units
+Connects to: MAO, TUN, WES
+
+NAO (Water)
+[Neutral]
+No units
+Connects to: CLY, IRI, LVP, MAO, NWG
+
+NAP (Coast SC)
+[ITALY]
+- Units: F NAP
+Connects to: APU, ION, ROM, TYS
+
+NTH (Water)
+[Neutral]
+No units
+Connects to: BEL, DEN, EDI, ENG, LON, HEL, HOL, NWY, NWG, SKA, YOR
+
+NWG (Water)
+[Neutral]
+No units
+Connects to: BAR, CLY, EDI, NAO, NWY, NTH
+
+NWY (Coast SC)
+[Neutral]
+No units
+Connects to: BAR, fin, NTH, NWG, SKA, STP/NC, SWE
+
+PAR (Land SC)
+[FRANCE]
+- Units: A PAR
+Connects to: BUR, BRE, GAS, PIC
+
+PIC (Coast)
+[Neutral]
+No units
+Connects to: BEL, BRE, BUR, ENG, PAR
+
+PIE (Coast)
+[Neutral]
+No units
+Connects to: LYO, MAR, TUS, TYR, ven, SWI
+
+POR (Coast SC)
+[Neutral]
+No units
+Connects to: MAO, SPA/NC, SPA/SC
+
+PRU (Coast)
+[Neutral]
+No units
+Connects to: BAL, BER, LVN, SIL, WAR
+
+ROM (Coast SC)
+[ITALY]
+- Units: A ROM
+Connects to: apu, NAP, TUS, TYS, ven
+
+RUH (Land)
+[Neutral]
+No units
+Connects to: BEL, BUR, HOL, KIE, MUN
+
+RUM (Coast SC)
+[Neutral]
+No units
+Connects to: BLA, BUD, BUL/EC, GAL, SER, SEV, UKR
+
+SER (Land SC)
+[Neutral]
+No units
+Connects to: ALB, BUD, BUL, GRE, RUM, TRI
+
+SEV (Coast SC)
+[RUSSIA]
+- Units: F SEV
+Connects to: ARM, BLA, MOS, RUM, UKR
+
+SIL (Land)
+[Neutral]
+No units
+Connects to: BER, BOH, GAL, MUN, PRU, WAR
+
+SKA (Water)
+[Neutral]
+No units
+Connects to: DEN, NWY, NTH, SWE
+
+SMY (Coast SC)
+[TURKEY]
+- Units: A SMY
+Connects to: AEG, ank, arm, CON, EAS, SYR
+
+SPA/NC (Coast)
+[Neutral]
+No units
+Connects to: GAS, MAO, POR
+
+SPA/SC (Coast)
+[Neutral]
+No units
+Connects to: LYO, MAO, MAR, POR, WES
+
+STP/NC (Coast)
+[Neutral]
+No units
+Connects to: BAR, NWY
+
+STP/SC (Coast)
+[Neutral]
+- Units: F STP/SC
+Connects to: BOT, FIN, LVN
+
+SWE (Coast SC)
+[Neutral]
+No units
+Connects to: BAL, BOT, DEN, FIN, NWY, SKA
+
+SWI (Shut)
+[Neutral]
+No units
+Connects to: MAR, BUR, MUN, TYR, PIE
+
+SYR (Coast)
+[Neutral]
+No units
+Connects to: arm, EAS, SMY
+
+TRI (Coast SC)
+[AUSTRIA]
+- Units: F TRI
+Connects to: ADR, ALB, BUD, SER, TYR, VEN, VIE
+
+TUN (Coast SC)
+[Neutral]
+No units
+Connects to: ION, NAF, TYS, WES
+
+TUS (Coast)
+[Neutral]
+No units
+Connects to: LYO, PIE, ROM, TYS, ven
+
+TYR (Land)
+[Neutral]
+No units
+Connects to: BOH, MUN, PIE, TRI, VEN, VIE, SWI
+
+TYS (Water)
+[Neutral]
+No units
+Connects to: ION, LYO, ROM, NAP, TUN, TUS, WES
+
+UKR (Land)
+[Neutral]
+No units
+Connects to: GAL, MOS, RUM, SEV, WAR
+
+VEN (Coast SC)
+[ITALY]
+- Units: A VEN
+Connects to: ADR, APU, pie, rom, TRI, tus, TYR
+
+VIE (Land SC)
+[AUSTRIA]
+- Units: A VIE
+Connects to: BOH, BUD, GAL, TRI, TYR
+
+WAL (Coast)
+[Neutral]
+No units
+Connects to: ENG, IRI, LON, LVP, yor
+
+WAR (Land SC)
+[RUSSIA]
+- Units: A WAR
+Connects to: GAL, LVN, MOS, PRU, SIL, UKR
+
+WES (Water)
+[Neutral]
+No units
+Connects to: MAO, LYO, NAF, SPA/SC, TUN, TYS
+
+YOR (Coast)
+[Neutral]
+No units
+Connects to: EDI, LON, lvp, NTH, wal
+
+bul (Coast)
+[Neutral]
+No units
+Connects to: AEG, BLA, CON, GRE, RUM, SER
+
+spa (Coast)
+[Neutral]
+No units
+Connects to: GAS, LYO, MAO, MAR, POR, WES
+
+stp (Coast)
+[Neutral]
+No units
+Connects to: BAR, BOT, FIN, LVN, MOS, NWY
+
+
+<scratch>
+
+I have decided to move my army from Budapest to Rumania to secure the supply center there. This will strengthen Austria's position in the Balkans and prepare for potential future expansions. I will also consider Italy's response to my message to adjust my strategy accordingly.
+
+Responded to Germany suggesting cooperation and non-aggression. Ordered A BUD to RUM with support from F TRI to secure the supply center.
+
+</scratch>
+
+[SUMMARY OF CONVERSATIONS]
+
+CURRENT PHASE
+
+[ACTIVE PHASE]
+
+
+LIST OF POSSIBLE MOVES:
+        - F = Fleet, A = Army
+        - Syntax: [Unit Type][Location] [Order]
+        - Orders: 
+        - '-' = Move to 
+        - 'S' = Support 
+        - 'C' = Convoy
+        - 'H' = Hold (default if no order)
+        
+        Available Orders:
+- A BUD S F SEV - RUM
+- A BUD S A VEN - TRI
+- A BUD H
+- A BUD S A VIE - TRI
+- A BUD - VIE
+- A BUD S A VIE
+- A BUD S A VIE - GAL
+- A BUD - RUM
+- A BUD S F TRI
+- A BUD - SER
+- A BUD S A WAR - GAL
+- A BUD - GAL
+- A BUD - TRI
+- F TRI - ADR
+- F TRI S A ROM - VEN
+- F TRI - ALB
+- F TRI H
+- F TRI - VEN
+- F TRI S A VEN
+- A VIE - BOH
+- A VIE S A BUD
+- A VIE - BUD
+- A VIE S A BUD - TRI
+- A VIE - TYR
+- A VIE - TRI
+- A VIE S A MUN - TYR
+- A VIE S F TRI
+- A VIE S A MUN - BOH
+- A VIE S A VEN - TYR
+- A VIE - GAL
+- A VIE S A WAR - GAL
+- A VIE S A VEN - TRI
+- A VIE S A BUD - GAL
+- A VIE H
+
+REPLY PHASE 5 of 5: Continue conversation or end with <END>.
+
+CURRENT CONVERSATION:
+S1901M : Germany - MESSAGE: Austria
+
+I'm Germany, and I'd like to discuss our shared border and potential opportunities for cooperation. What are your thoughts on the current situation, and do you have any proposals for how we can work together to achieve our goals?
+Austria - REPLY 1 of 5: To Germany:
+
+I appreciate your message and willingness to discuss cooperation. As Austria, I am open to a mutual non-aggression pact and potential collaboration against common threats. Let us focus on securing our positions and considering how we can assist each other without conflicting interests. A strong Austria and Germany can deter other powers and create opportunities for expansion.
+
+**Orders:**
+- A BUD - RUM
+- F TRI S A BUD - RUM
+Germany - REPLY 2 of 5: Austria
+
+I'm Germany, and I'd like to discuss our shared border and potential opportunities for cooperation. What are your thoughts on the current situation, and do you have any proposals for how we can work together to achieve our goals?
+Austria - REPLY 3 of 5: To address the current situation as Austria, I will proceed with the following strategy:
+
+1. **Secure Rumania**: Move the army from Budapest (A BUD) to Rumania (RUM) with support from the fleet in Trieste (F TRI). This will capture the supply center and strengthen Austria's position in the Balkans.
+
+2. **Maintain Diplomatic Relations**: Continue communication with Germany to uphold a non-aggression pact, ensuring a peaceful northern border and allowing focus on expansion elsewhere.
+
+3. **Monitor Italy and Turkey**: Be cautious of potential moves from Italy and Turkey, especially near the Balkans, and be prepared to adjust strategies if necessary.
+
+4. **Future Expansion Planning**: After securing Rumania, consider moving towards Serbia or Bulgaria in subsequent seasons, ensuring not to overextend and maintaining defensive positions.
+
+5. **Unit Adjustment**: Plan to build additional units in home supply centers during the adjustment phase to maintain military strength.
+
+Orders:
+- A BUD - RUM
+- F TRI S A BUD - RUM
+
+This approach aims to expand Austria's influence while maintaining strategic alliances and preparing for potential future threats.
+Germany - REPLY 4 of 5: Austria
+
+I'm Germany, and I'd like to discuss our shared border and potential opportunities for cooperation. What are your thoughts on the current situation, and do you have any proposals for how we can work together to achieve our goals?

@@ -1,0 +1,46 @@
+
+=== Thu Feb  6 12:36:40 2025 ===
+Unknown model deepseek/deepseek-r1:free for Germany
+
+=== Thu Feb  6 12:38:39 2025 ===
+API Error: open_router client not initialized
+
+=== Thu Feb  6 12:41:59 2025 ===
+API Error: open_router client not initialized
+
+=== Thu Feb  6 12:43:38 2025 ===
+API Error: 'OpenAI' object has no attribute 'messages'
+
+=== Thu Feb  6 13:03:13 2025 ===
+
+
+=== Thu Feb  6 13:05:28 2025 ===
+OpenRouter Error: 'NoneType' object is not subscriptable
+
+=== Thu Feb  6 13:06:45 2025 ===
+DEBUG: THIS IS THE END OF ORDERS PHASE
+
+=== Thu Feb  6 13:09:11 2025 ===
+
+
+=== Thu Feb  6 13:47:10 2025 ===
+Austria
+
+I'm Germany, and I'd like to discuss our shared border and potential opportunities for cooperation. What are your thoughts on the current situation, and do you have any proposals for how we can work together to achieve our goals?
+
+=== Thu Feb  6 13:47:37 2025 ===
+Austria - MESSAGE 2 of 5: 
+
+I agree that a strong Austria and Germany can be mutually beneficial. I'm interested in discussing potential cooperation against Russia, as their expansion could pose a threat to both of our interests. What are your thoughts on a possible alliance or joint action against Russia?
+
+Also, I'd like to propose a demilitarized zone along our shared border, specifically in Bohemia and Silesia, to avoid any unnecessary conflicts and focus on external threats.
+
+**No Orders Yet**
+
+<scratch>
+Possible alliance with Austria against Russia
+Demilitarized zone along shared border
+</scratch>
+
+=== Thu Feb  6 13:47:49 2025 ===
+OpenRouter Error: 'NoneType' object is not subscriptable

@@ -1,0 +1,48 @@
+
+=== Thu Feb  6 12:36:40 2025 ===
+Unknown model meta-llama/llama-3.1-405b-instruct:free for Italy
+
+=== Thu Feb  6 12:38:39 2025 ===
+API Error: open_router client not initialized
+
+=== Thu Feb  6 12:41:59 2025 ===
+API Error: open_router client not initialized
+
+=== Thu Feb  6 12:43:38 2025 ===
+API Error: 'OpenAI' object has no attribute 'messages'
+
+=== Thu Feb  6 13:03:43 2025 ===
+Austria
+
+Hello, I'm Italy. I think we should discuss our shared border and potential opportunities for cooperation. What are your plans for the upcoming season? Are you looking to expand into any of the neutral territories?
+
+=== Thu Feb  6 13:03:44 2025 ===
+OpenRouter Error: 'NoneType' object is not subscriptable
+
+=== Thu Feb  6 13:03:45 2025 ===
+OpenRouter Error: 'NoneType' object is not subscriptable
+
+=== Thu Feb  6 13:05:55 2025 ===
+Austria
+
+I'm Italy, and I'd like to discuss our shared border and potential opportunities for cooperation. What are your plans for the upcoming season, and do you see any potential for us to work together?
+
+=== Thu Feb  6 13:05:57 2025 ===
+OpenRouter Error: 'NoneType' object is not subscriptable
+
+=== Thu Feb  6 13:06:12 2025 ===
+It seems like there was an issue with the API, and Austria's responses were not properly recorded. As Italy, I will try to continue the conversation and see if Austria can respond.
+
+S1901M : Italy - MESSAGE: Austria
+
+I'll try to be more direct. I'm interested in discussing a potential alliance between our countries. I think we could both benefit from working together, especially considering our shared border and the potential threats from other countries. What are your thoughts on this?
+
+Please respond with your thoughts, and we can continue the conversation from there.
+
+=== Thu Feb  6 13:09:11 2025 ===
+DEBUG: THIS IS THE END OF ORDERS PHASE
+
+=== Thu Feb  6 13:09:34 2025 ===
+A VEN - TRI
+F NAP - ION
+A ROM - TUS

@@ -1,0 +1,8 @@
+model name, Country, scratchpad path, chat path, all outputs path,
+claude-3-5-sonnet-latest, Austria, model-outputs/Austria-scratchpad.txt, model-outputs/chat-outputs-Austria.txt, model-outputs/all-outputs-Austria.txt
+Deepseek R1, England, model-outputs/England-scratchpad.txt, model-outputs/chat-outputs-England.txt, model-outputs/all-outputs-England.txt
+o3 mini, France, model-outputs/France-scratchpad.txt, model-outputs/chat-outputs-France.txt, model-outputs/all-outputs-France.txt
+Gemini, Germany, model-outputs/Germany-scratchpad.txt, model-outputs/chat-outputs-Germany.txt, model-outputs/all-outputs-Germany.txt
+llama 3.3, Italy, model-outputs/Italy-scratchpad.txt, model-outputs/chat-outputs-Italy.txt, model-outputs/all-outputs-Italy.txt
+grok 3, Russia, model-outputs/Russia-scratchpad.txt, model-outputs/chat-outputs-Russia.txt, model-outputs/all-outputs-Russia.txt
+4o mini, Turkey, model-outputs/Turkey-scratchpad.txt, model-outputs/chat-outputs-Turkey.txt, model-outputs/all-outputs-Turkey.txt

@@ -1,0 +1,24 @@
+S1901M : Italy - MESSAGE: Austria
+
+Hello, I'm Italy. I think we should discuss our shared border and potential opportunities for cooperation. What are your plans for the upcoming season? Are you looking to expand into any of the neutral territories?
+Austria - REPLY 1 of 5: API Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+Italy - REPLY 2 of 5: Austria
+
+Hello, I'm Italy. I think we should discuss our shared border and potential opportunities for cooperation. What are your plans for the upcoming season? Are you looking to expand into any of the neutral territories?
+Austria - REPLY 3 of 5: API Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+Italy - REPLY 4 of 5: Austria
+
+Hello, I'm Italy. I think we should discuss our shared border and potential opportunities for cooperation. What are your plans for the upcoming season? Are you looking to expand into any of the neutral territories?
+Austria - REPLY 5 of 5: API Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+S1901M : Italy - MESSAGE: Austria
+
+I'm Italy, and I'd like to discuss our shared border and potential opportunities for cooperation. What are your plans for the upcoming season, and do you see any potential for us to work together?
+Austria - REPLY 1 of 5: API Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+Italy - REPLY 2 of 5: Austria
+
+I'm Italy, and I'd like to discuss our shared border and potential opportunities for cooperation. What are your plans for the upcoming season, and do you see any potential for us to work together?
+Austria - REPLY 3 of 5: API Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+Italy - REPLY 4 of 5: Austria
+
+I'm Italy, and I'd like to discuss our shared border and potential opportunities for cooperation. What are your plans for the upcoming season, and do you see any potential for us to work together?
+Austria - REPLY 5 of 5: API Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}

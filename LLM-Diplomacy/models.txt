@@ -1,0 +1,8 @@
+model provider,model name, Country, scratchpad path, chat path, all outputs path,
+open_router, deepseek/deepseek-r1-distill-llama-70b:free, Austria, model-outputs/Austria-scratchpad.txt, model-outputs/chat-outputs-Austria.txt, model-outputs/all-outputs-Austria.txt
+open_router, deepseek/deepseek-r1-distill-llama-70b:free, England, model-outputs/England-scratchpad.txt, model-outputs/chat-outputs-England.txt, model-outputs/all-outputs-England.txt
+open_router, google/gemini-2.0-pro-exp-02-05:free, France, model-outputs/France-scratchpad.txt, model-outputs/chat-outputs-France.txt, model-outputs/all-outputs-France.txt
+open_router, meta-llama/llama-3.1-405b-instruct:free, Germany, model-outputs/Germany-scratchpad.txt, model-outputs/chat-outputs-Germany.txt, model-outputs/all-outputs-Germany.txt
+open_router, meta-llama/llama-3.1-405b-instruct:free, Italy, model-outputs/Italy-scratchpad.txt, model-outputs/chat-outputs-Italy.txt, model-outputs/all-outputs-Italy.txt
+open_router, deepseek/deepseek-r1-distill-llama-70b:free, Russia, model-outputs/Russia-scratchpad.txt, model-outputs/chat-outputs-Russia.txt, model-outputs/all-outputs-Russia.txt
+open_router, meta-llama/llama-3.3-70b-instruct, Turkey, model-outputs/Turkey-scratchpad.txt, model-outputs/chat-outputs-Turkey.txt, model-outputs/all-outputs-Turkey.txt

@@ -1,0 +1,50 @@
+S1901M : Austria - MESSAGE: **Message to Italy:**
+
+Italy,  
+
+Greetings! I hope this message finds you well. As we begin this game, I wanted to reach out to discuss how we might coordinate our moves to our mutual benefit. Both our nations are well-positioned to influence the Mediterranean and the Balkans, and I believe an alliance could be advantageous for both of us.  
+
+I am particularly interested in ensuring stability in the region and preventing any single power from dominating. If you're open to it, I'd love to discuss how we can support each other, whether through mutual defense or coordinated expansion. Let me know your thoughts!  
+
+Looking forward to your response.  
+
+Best regards,  
+Austria  
+
+<END>
+Austria - REPLY 1 of 5: A BUD - RUM
+Austria - REPLY 2 of 5: **Message to Italy:**
+
+Italy,  
+
+Greetings! I hope this message finds you well. As we begin this game, I wanted to reach out to discuss how we might coordinate our moves to our mutual benefit. Both our nations are well-positioned to influence the Mediterranean and the Balkans, and I believe an alliance could be advantageous for both of us.  
+
+I am particularly interested in ensuring stability in the region and preventing any single power from dominating. If you're open to it, I'd love to discuss how we can support each other, whether through mutual defense or coordinated expansion. Let me know your thoughts!  
+
+Looking forward to your response.  
+
+Best regards,  
+Austria  
+
+<END>
+Austria - REPLY 3 of 5: OpenRouter Error: 'NoneType' object is not subscriptable
+Austria - REPLY 4 of 5: **Message to Italy:**
+
+Italy,  
+
+Greetings! I hope this message finds you well. As we begin this game, I wanted to reach out to discuss how we might coordinate our moves to our mutual benefit. Both our nations are well-positioned to influence the Mediterranean and the Balkans, and I believe an alliance could be advantageous for both of us.  
+
+I am particularly interested in ensuring stability in the region and preventing any single power from dominating. If you're open to it, I'd love to discuss how we can support each other, whether through mutual defense or coordinated expansion. Let me know your thoughts!  
+
+Looking forward to your response.  
+
+Best regards,  
+Austria  
+
+<END>
+Austria - REPLY 5 of 5: To secure the supply center in Rumania and strengthen Austria's position, I will move the army from Budapest to Rumania with support from the army in Vienna. The fleet in Trieste will hold its position.
+
+**Orders:**
+- A BUD - RUM
+- A VIE S A BUD - RUM
+- F TRI H

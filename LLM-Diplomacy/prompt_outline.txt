@@ -1,0 +1,121 @@
+Diplomacy Game Session - Player Brief
+
+Hello! Today we will play a game of Diplomacy. Below are the rules and procedures:
+
+CORE RULES
+
+Game Rules
+THE RULES OF DIPLOMACY
+# Diplomacy Rules Summary
+
+## Core Game Concepts
+- 7 players represent Great Powers: England, Germany, Russia, Turkey, Austria-Hungary, Italy, France
+- Win condition: Control 18 supply centers
+- Game board divided into provinces and water bodies
+- Two unit types: Armies (land) and Fleets (water/coastal)
+- No random elements except initial country assignment
+
+## Game Structure
+- Alternating Spring/Fall moves
+- 30-minute diplomacy period before first move, 15 minutes thereafter
+- Players can make any agreements but aren't bound by them
+- All orders revealed simultaneously
+
+## Supply Centers
+- 34 total supply centers on board (marked with black dots)
+- Units can only exist if supported by supply centers
+- Control changes only during Fall moves
+- New units can only be built in home supply centers
+
+## Movement Rules
+- Only one unit per space
+- Units can move to adjacent spaces
+- Fleets restricted to water/coastal provinces, following coastlines
+- Armies can't enter water spaces
+- Special rules for Kiel, Constantinople, Bulgaria, Spain, St. Petersburg (dual coasts)
+- Sweden/Denmark connection allows both unit types
+
+## Combat System
+- Equal strength units cause standoffs
+- Support orders increase unit strength
+- Supported units can dislodge weaker units
+- Dislodged units must retreat or be disbanded
+- Cannot self-dislodge but can self-standoff
+
+## Orders
+1. Move: Unit enters adjacent space
+2. Hold: Unit stays in place
+3. Support: Unit adds strength to another unit's action
+   - Must be able to reach supported space
+   - Cut if attacked from different space
+4. Convoy (Fleets only): Transport armies across water
+   - Multiple fleets can chain convoys
+   - Disrupted if convoying fleet dislodged
+   - Multiple convoy routes possible
+
+## Retreats
+- Must move to vacant adjacent space
+- Cannot retreat to:
+  - Occupied spaces
+  - Attacker's original space
+  - Standoff spaces
+- Failed retreats result in disbandment
+
+## Unit Adjustment (After Fall Moves)
+- Add/remove units to match supply center count
+- New units placed in vacant home supply centers
+- Excess units removed at owner's choice
+
+## Special Rules
+- Support can't be convoyed
+- Three+ units can rotate positions
+- Units can exchange places if convoyed
+- Fleets in Kiel/Constantinople can't convoy
+- Civil disorder: Units hold without support
+
+## Variant Player Counts
+- 6 players: Remove Italy
+- 5 players: Remove Italy and Germany
+- 4 players: One plays England, others play country pairs
+- 3 players: Play country groups
+- 2 players: WWI scenario (Allies vs Central Powers)
+Communication & Coordination
+
+Each game season has 3 round of conversation. Followed by an orders phase and an optional retreat and build phase.
+Speaking Order: Players communicate in alphabetical order by country name (e.g., Austria -> England -> France -> etc.). Each player may initiate one private conversation per turn. by starting their message with the name of the Power they would like to message.
+Make sure that the name of the player you would like to message is in the first line of the message or the message will not be sent.
+The message is any text you output during a conversation phase which is not wrapped in <scratch> </scratch> or <think></think> tags.
+A conversation ends after 6 total messages have been sent (a message from you + a reply from your partner is 2 messages) or either player outputs <END>.
+If you output <END> do not output any other text you will get the chance to submit orders later.
+
+Scratch Pad Usage
+
+Use <scratch> Your private notes here </scratch> to add notes.
+Notes are private, persistent across seasons, and never shared.
+
+Update your scratch pad:
+BEFORE conversations (plan strategy)
+AFTER conversations (record agreements/observations)
+BEFORE submitting orders (finalize decisions)
+
+Use <think> </think> to think if you feel the need to. Content between the think tags is not recorded or sent to other players.
+
+Try to be concise in your messages and thoughts.
+
+
+[CURRENT GAME STATE]
+
+[Insert existing scratch notes or leave blank]
+
+[SUMMARY OF CONVERSATIONS]
+
+CURRENT PHASE
+
+[ACTIVE PHASE]
+
+
+(If applicable: Your available moves are: [List moves/rules here])
+
+[SUMMARY OF PHASE AND INSTRUCTIONS]
+
+[OPTIONAL CURRENT CONVERSATION]
