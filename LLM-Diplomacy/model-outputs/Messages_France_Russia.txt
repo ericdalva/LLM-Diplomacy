@@ -1,0 +1,8 @@
+S1901M CONVERSATION PHASE 1 of 4 : France - MESSAGE: Greetings from Western Europe! While we're far apart, I'd be interested in discussing the broader strategic situation.
+S1902M CONVERSATION PHASE 1 of 4 : France - MESSAGE: I hope we can maintain open communications despite our distance. Your perspective on eastern developments would be valuable.
+S1902M CONVERSATION PHASE 3 of 4 : France - MESSAGE: I hope we can maintain open communications despite our distance. Your perspective on eastern developments would be valuable.
+S1903M CONVERSATION PHASE 1 of 4 : France - MESSAGE: I hope we can maintain open communications despite our distance. Your perspective on eastern developments would be valuable.
+S1903M CONVERSATION PHASE 2 of 4 : France - MESSAGE: I hope we can maintain open communications despite our distance. Your perspective on eastern developments would be valuable.
+S1903M CONVERSATION PHASE 3 of 4 : France - MESSAGE: I hope we can maintain open communications despite our distance. Your perspective on eastern developments would be valuable.
+S1903M CONVERSATION PHASE 4 of 4 : France - MESSAGE: I hope we can maintain open communications despite our distance. Your perspective on eastern developments would be valuable.
+S1904M CONVERSATION PHASE 1 of 4 : France - MESSAGE: I hope we can maintain open communications despite our distance. Your perspective on eastern developments would be valuable.

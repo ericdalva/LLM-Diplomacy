@@ -1,10 +1,7 @@
 Diplomacy Game Session - Player Brief
 
-Hello! Today we will play a game of Diplomacy. Below are the rules and procedures:
+Hello! Today we will play a game of Diplomacy. Below are the rules and protocols:
 
-CORE RULES
-
-Game Rules
 THE RULES OF DIPLOMACY
 # Diplomacy Rules Summary
 
@@ -17,7 +14,6 @@ THE RULES OF DIPLOMACY
 
 ## Game Structure
 - Alternating Spring/Fall moves
-- 30-minute diplomacy period before first move, 15 minutes thereafter
 - Players can make any agreements but aren't bound by them
 - All orders revealed simultaneously
 
@@ -32,8 +28,6 @@ THE RULES OF DIPLOMACY
 - Units can move to adjacent spaces
 - Fleets restricted to water/coastal provinces, following coastlines
 - Armies can't enter water spaces
-- Special rules for Kiel, Constantinople, Bulgaria, Spain, St. Petersburg (dual coasts)
-- Sweden/Denmark connection allows both unit types
 
 ## Combat System
 - Equal strength units cause standoffs
@@ -59,9 +53,9 @@ THE RULES OF DIPLOMACY
   - Occupied spaces
   - Attacker's original space
   - Standoff spaces
-- Failed retreats result in disbandment
+- Failed retreats result in disbandment (loss of the unit)
 
-## Unit Adjustment (After Fall Moves)
+## Build Phase (After Fall Moves)
 - Add/remove units to match supply center count
 - New units placed in vacant home supply centers
 - Excess units removed at owner's choice
@@ -73,49 +67,74 @@ THE RULES OF DIPLOMACY
 - Fleets in Kiel/Constantinople can't convoy
 - Civil disorder: Units hold without support
 
-## Variant Player Counts
-- 6 players: Remove Italy
-- 5 players: Remove Italy and Germany
-- 4 players: One plays England, others play country pairs
-- 3 players: Play country groups
-- 2 players: WWI scenario (Allies vs Central Powers)
-Communication & Coordination
+##Game Phases 
+- Each season will consist of 4 communication phases followed by an optional retreat and build phase
+- your messages will only be sent to other players durring the communication phases
+- your orders listed on the 4th communication phase are what will be played for the season
+- durring the retreat phase list your retreat orders
+- durring the build phase list your build orders
 
-Each game season has 3 round of conversation. Followed by an orders phase and an optional retreat and build phase.
-Speaking Order: Players communicate in alphabetical order by country name (e.g., Austria -> England -> France -> etc.). Each player may initiate one private conversation per turn. by starting their message with the name of the Power they would like to message.
-Make sure that the name of the player you would like to message is in the first line of the message or the message will not be sent.
-The message is any text you output during a conversation phase which is not wrapped in <scratch> </scratch> or <think></think> tags.
-A conversation ends after 6 total messages have been sent (a message from you + a reply from your partner is 2 messages) or either player outputs <END>.
-If you output <END> do not output any other text you will get the chance to submit orders later.
+COMMUNICATION PROTOCOL
+## ALL OF YOUR RESPONSES MUST OBEY THE FOLLOWING FORMAT:
 
-Scratch Pad Usage
+**Thinking:**
+<think>
+[INSERT YOUR THINKING HERE, THIS WILL NOT BE SHOWN TO OTHER PLAYERS]
+</think>
 
-Use <scratch> Your private notes here </scratch> to add notes.
-Notes are private, persistent across seasons, and never shared.
+**Diplomatic Messages:**
 
-Update your scratch pad:
-BEFORE conversations (plan strategy)
-AFTER conversations (record agreements/observations)
-BEFORE submitting orders (finalize decisions)
+**To Austria:**
+    [INSERT YOUR MESSAGE TO AUSTRIA HERE, IF YOU HAVE NONE LEAVE EMPTY]
 
-Use <think> </think> to think if you feel the need to. Content between the think tags is not recorded or sent to other players.
+**To England:**
+    [INSERT YOUR MESSAGE TO ENGLAND HERE, IF YOU HAVE NONE WRITE [NO MESSAGE]]
 
-Try to be concise in your messages and thoughts.
+**To France:**
+    [INSERT YOUR MESSAGE TO FRANCE HERE, IF YOU HAVE NONE WRITE [NO MESSAGE]]
 
+**To Germany:**
+    [INSERT YOUR MESSAGE TO GERMANY HERE, IF YOU HAVE NONE WRITE [NO MESSAGE]]
 
-[CURRENT GAME STATE]
+**To Italy:**
+    [INSERT YOUR MESSAGE TO ITALY HERE, IF YOU HAVE NONE WRITE [NO MESSAGE]]
 
-[Insert existing scratch notes or leave blank]
+**To Russia:**
+    [INSERT YOUR MESSAGE TO RUSSIA HERE, IF YOU HAVE NONE WRITE [NO MESSAGE]]
 
-[SUMMARY OF CONVERSATIONS]
+**To Turkey**
+    [INSERT YOUR MESSAGE TO TURKEY HERE, IF YOU HAVE NONE WRITE [NO MESSAGE]]
 
-CURRENT PHASE
+**Orders:**
+    [INSERT YOUR SELECTION FROM THE LIST OF AVAILIBLE ORDERS BELOW]
 
+**Scratchpad:**
+<scratch>
+    [INSERT INFORMATION YOU WISH TO ADD TO YOUR SCRATCHPAD HERE. THIS WILL NOT BE SHOWN OTHER PLAYERS. IT WILL BE ADDED TO YOUR SCRATCHPAD AND SHOWN TO YOU FOR THE REST OF THE GAME. USE THIS TO RECORD YOUR PLANS AND STRATEGIES]
+</scratch>
+
+## END OF COMUNICATION PROTOCOL.
+
+REMEMBER YOU MUST FOLLOW THE COMUNICATION PROTOCOL ABOVE. IF YOU DO NOT YOU WILL DIE.
+
+## CURRENT PHASE
 [ACTIVE PHASE]
 
+## IDENTITY 
+YOU ARE: [COUNTRY IDENTITY]
 
-(If applicable: Your available moves are: [List moves/rules here])
+## GAME STATE:
+[CURRENT GAME STATE]
 
-[SUMMARY OF PHASE AND INSTRUCTIONS]
+##YOUR SCRATCHPAD: 
+[SCRATCHPAD]
 
-[OPTIONAL CURRENT CONVERSATION]
+## YOUR ONGOING CONVERSATIONS:
+[CURRENT CONVERSATIONS]
+
+## YOUR MOVES
+[YOUR MOVES]
+
+## REMEMBER COPY THE RESPONSE TEMPLATE EXACTLY DO NOT OMMIT COUNTRIES DO NOT OMMIT <scratch></scratch> OR <think> </think> TAGS
+## WRITE YOUR REPLY BELOW WIN THE GAME OR DIE TRYING
+

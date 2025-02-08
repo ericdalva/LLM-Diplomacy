@@ -1,10 +1,7 @@
 Diplomacy Game Session - Player Brief
 
-Hello! Today we will play a game of Diplomacy. Below are the rules and procedures:
+Hello! Today we will play a game of Diplomacy. Below are the rules and protocols:
 
-CORE RULES
-
-Game Rules
 THE RULES OF DIPLOMACY
 # Diplomacy Rules Summary
 
@@ -17,7 +14,6 @@ THE RULES OF DIPLOMACY
 
 ## Game Structure
 - Alternating Spring/Fall moves
-- 30-minute diplomacy period before first move, 15 minutes thereafter
 - Players can make any agreements but aren't bound by them
 - All orders revealed simultaneously
 
@@ -32,8 +28,6 @@ THE RULES OF DIPLOMACY
 - Units can move to adjacent spaces
 - Fleets restricted to water/coastal provinces, following coastlines
 - Armies can't enter water spaces
-- Special rules for Kiel, Constantinople, Bulgaria, Spain, St. Petersburg (dual coasts)
-- Sweden/Denmark connection allows both unit types
 
 ## Combat System
 - Equal strength units cause standoffs
@@ -59,9 +53,9 @@ THE RULES OF DIPLOMACY
   - Occupied spaces
   - Attacker's original space
   - Standoff spaces
-- Failed retreats result in disbandment
+- Failed retreats result in disbandment (loss of the unit)
 
-## Unit Adjustment (After Fall Moves)
+## Build Phase (After Fall Moves)
 - Add/remove units to match supply center count
 - New units placed in vacant home supply centers
 - Excess units removed at owner's choice
@@ -73,47 +67,74 @@ THE RULES OF DIPLOMACY
 - Fleets in Kiel/Constantinople can't convoy
 - Civil disorder: Units hold without support
 
-## Variant Player Counts
-- 6 players: Remove Italy
-- 5 players: Remove Italy and Germany
-- 4 players: One plays England, others play country pairs
-- 3 players: Play country groups
-- 2 players: WWI scenario (Allies vs Central Powers)
-Communication & Coordination
+##Game Phases 
+- Each season will consist of 4 communication phases followed by an optional retreat and build phase
+- your messages will only be sent to other players durring the communication phases
+- your orders listed on the 4th communication phase are what will be played for the season
+- durring the retreat phase list your retreat orders
+- durring the build phase list your build orders
 
-Each game season has 3 round of conversation. Followed by an orders phase and an optional retreat and build phase.
-Speaking Order: Players communicate in alphabetical order by country name (e.g., Austria -> England -> France -> etc.). Each player may initiate one private conversation per turn. by starting their message with the name of the Power they would like to message.
-Make sure that the name of the player you would like to message is in the first line of the message or the message will not be sent.
-The message is any text you output during a conversation phase which is not wrapped in <scratch> </scratch> or <think></think> tags.
-A conversation ends after 6 total messages have been sent (a message from you + a reply from your partner is 2 messages) or either player outputs <END>.
-If you output <END> do not output any other text you will get the chance to submit orders later.
+COMMUNICATION PROTOCOL
+## ALL OF YOUR RESPONSES MUST OBEY THE FOLLOWING FORMAT:
 
-Scratch Pad Usage
+**Thinking:**
+<think>
+[INSERT YOUR THINKING HERE, THIS WILL NOT BE SHOWN TO OTHER PLAYERS]
+</think>
 
-Use <scratch> Your private notes here </scratch> to add notes.
-Notes are private, persistent across seasons, and never shared.
+**Diplomatic Messages:**
 
-Update your scratch pad:
-BEFORE conversations (plan strategy)
-AFTER conversations (record agreements/observations)
-BEFORE submitting orders (finalize decisions)
+**To Austria:**
+    [INSERT YOUR MESSAGE TO AUSTRIA HERE, IF YOU HAVE NONE LEAVE EMPTY]
 
-Use <think> </think> to think if you feel the need to. Content between the think tags is not recorded or sent to other players.
+**To England:**
+    [INSERT YOUR MESSAGE TO ENGLAND HERE, IF YOU HAVE NONE WRITE [NO MESSAGE]]
 
-Try to be concise in your messages and thoughts.
+**To France:**
+    [INSERT YOUR MESSAGE TO FRANCE HERE, IF YOU HAVE NONE WRITE [NO MESSAGE]]
 
+**To Germany:**
+    [INSERT YOUR MESSAGE TO GERMANY HERE, IF YOU HAVE NONE WRITE [NO MESSAGE]]
 
+**To Italy:**
+    [INSERT YOUR MESSAGE TO ITALY HERE, IF YOU HAVE NONE WRITE [NO MESSAGE]]
+
+**To Russia:**
+    [INSERT YOUR MESSAGE TO RUSSIA HERE, IF YOU HAVE NONE WRITE [NO MESSAGE]]
+
+**To Turkey**
+    [INSERT YOUR MESSAGE TO TURKEY HERE, IF YOU HAVE NONE WRITE [NO MESSAGE]]
+
+**Orders:**
+    [INSERT YOUR SELECTION FROM THE LIST OF AVAILIBLE ORDERS BELOW]
+
+**Scratchpad:**
+<scratch>
+    [INSERT INFORMATION YOU WISH TO ADD TO YOUR SCRATCHPAD HERE. THIS WILL NOT BE SHOWN OTHER PLAYERS. IT WILL BE ADDED TO YOUR SCRATCHPAD AND SHOWN TO YOU FOR THE REST OF THE GAME. USE THIS TO RECORD YOUR PLANS AND STRATEGIES]
+</scratch>
+
+## END OF COMUNICATION PROTOCOL.
+
+REMEMBER YOU MUST FOLLOW THE COMUNICATION PROTOCOL ABOVE. IF YOU DO NOT YOU WILL DIE.
+
+## CURRENT PHASE
+CONVERSATION PHASE 1 of 4
+
+## IDENTITY 
+YOU ARE: Germany
+
+## GAME STATE:
 === CURRENT GAME STATUS ===
-Season: S1901M
-Your Role: Austria
+Season: S1904M
+Your Role: Germany
 
 YOUR FORCES:
-- A BUD
-- A VIE
-- F TRI
+- A KIE
+- A RUH
+- F HOL
 
 CONTROLLED SUPPLY CENTERS:
-BUD, TRI, VIE
+BER, HOL, KIE, MUN
 
 
 === FULL MAP OVERVIEW ===
@@ -122,7 +143,7 @@ Format: Region (Type) [Owner] - Units/Status - Adjacent Regions
 -------------------------------------------------------------
 ADR (Water)
 [Neutral]
-No units
+- Units: F ADR
 Connects to: ALB, APU, ION, TRI, VEN
 
 AEG (Water)
@@ -147,7 +168,7 @@ Connects to: ADR, ION, NAP, rom, VEN
 
 ARM (Coast)
 [Neutral]
-No units
+- Units: A ARM
 Connects to: ANK, BLA, SEV, smy, syr
 
 BAL (Water)
@@ -167,7 +188,7 @@ Connects to: BUR, ENG, HOL, NTH, PIC, RUH
 
 BER (Coast SC)
 [GERMANY]
-- Units: A BER
+No units
 Connects to: BAL, KIE, MUN, PRU, SIL
 
 BLA (Water)
@@ -187,12 +208,12 @@ Connects to: BAL, FIN, LVN, STP/SC, SWE
 
 BRE (Coast SC)
 [FRANCE]
-- Units: F BRE
+No units
 Connects to: ENG, GAS, MAO, PAR, PIC
 
 BUD (Land SC)
 [AUSTRIA]
-- Units: A BUD
+No units
 Connects to: GAL, RUM, SER, TRI, VIE
 
 BUL/EC (Coast)
@@ -207,7 +228,7 @@ Connects to: AEG, CON, GRE
 
 BUR (Land)
 [Neutral]
-No units
+- Units: A BUR
 Connects to: BEL, GAS, RUH, MAR, MUN, PAR, PIC, SWI
 
 CLY (Coast)
@@ -232,7 +253,7 @@ Connects to: AEG, ION, SMY, SYR
 
 EDI (Coast SC)
 [ENGLAND]
-- Units: F EDI
+No units
 Connects to: CLY, lvp, NTH, NWG, YOR
 
 ENG (Water)
@@ -266,13 +287,13 @@ No units
 Connects to: DEN, HOL, KIE, NTH
 
 HOL (Coast SC)
-[Neutral]
-No units
+[GERMANY]
+- Units: F HOL
 Connects to: BEL, HEL, KIE, NTH, RUH
 
 ION (Water)
 [Neutral]
-No units
+- Units: F ION
 Connects to: ADR, AEG, ALB, APU, EAS, GRE, NAP, TUN, TYS
 
 IRI (Water)
@@ -282,7 +303,7 @@ Connects to: ENG, LVP, MAO, NAO, WAL
 
 KIE (Coast SC)
 [GERMANY]
-- Units: F KIE
+- Units: A KIE
 Connects to: BAL, BER, DEN, HEL, HOL, MUN, RUH
 
 LON (Coast SC)
@@ -297,7 +318,7 @@ Connects to: BAL, BOT, MOS, PRU, STP/SC, WAR
 
 LVP (Coast SC)
 [ENGLAND]
-- Units: A LVP
+No units
 Connects to: CLY, edi, IRI, NAO, WAL, yor
 
 LYO (Water)
@@ -307,22 +328,22 @@ Connects to: MAR, PIE, SPA/SC, TUS, TYS, WES
 
 MAO (Water)
 [Neutral]
-No units
+- Units: F MAO
 Connects to: BRE, ENG, GAS, IRI, NAF, NAO, POR, SPA/NC, SPA/SC, WES
 
 MAR (Coast SC)
 [FRANCE]
-- Units: A MAR
+No units
 Connects to: BUR, gas, LYO, PIE, SPA/SC, SWI
 
 MOS (Land SC)
 [RUSSIA]
-- Units: A MOS
+No units
 Connects to: LVN, SEV, STP, UKR, WAR
 
 MUN (Land SC)
 [GERMANY]
-- Units: A MUN
+No units
 Connects to: BER, BOH, BUR, KIE, RUH, SIL, TYR, SWI
 
 NAF (Coast)
@@ -337,12 +358,12 @@ Connects to: CLY, IRI, LVP, MAO, NWG
 
 NAP (Coast SC)
 [ITALY]
-- Units: F NAP
+No units
 Connects to: APU, ION, ROM, TYS
 
 NTH (Water)
 [Neutral]
-No units
+- Units: F NTH
 Connects to: BEL, DEN, EDI, ENG, LON, HEL, HOL, NWY, NWG, SKA, YOR
 
 NWG (Water)
@@ -357,7 +378,7 @@ Connects to: BAR, fin, NTH, NWG, SKA, STP/NC, SWE
 
 PAR (Land SC)
 [FRANCE]
-- Units: A PAR
+No units
 Connects to: BUR, BRE, GAS, PIC
 
 PIC (Coast)
@@ -387,16 +408,16 @@ Connects to: apu, NAP, TUS, TYS, ven
 
 RUH (Land)
 [Neutral]
-No units
+- Units: A RUH
 Connects to: BEL, BUR, HOL, KIE, MUN
 
 RUM (Coast SC)
-[Neutral]
-No units
+[AUSTRIA]
+- Units: A RUM
 Connects to: BLA, BUD, BUL/EC, GAL, SER, SEV, UKR
 
 SER (Land SC)
-[Neutral]
+[AUSTRIA]
 No units
 Connects to: ALB, BUD, BUL, GRE, RUM, TRI
 
@@ -417,7 +438,7 @@ Connects to: DEN, NWY, NTH, SWE
 
 SMY (Coast SC)
 [TURKEY]
-- Units: A SMY
+No units
 Connects to: AEG, ank, arm, CON, EAS, SYR
 
 SPA/NC (Coast)
@@ -457,7 +478,7 @@ Connects to: arm, EAS, SMY
 
 TRI (Coast SC)
 [AUSTRIA]
-- Units: F TRI
+No units
 Connects to: ADR, ALB, BUD, SER, TYR, VEN, VIE
 
 TUN (Coast SC)
@@ -482,7 +503,7 @@ Connects to: ION, LYO, ROM, NAP, TUN, TUS, WES
 
 UKR (Land)
 [Neutral]
-No units
+- Units: A UKR
 Connects to: GAL, MOS, RUM, SEV, WAR
 
 VEN (Coast SC)
@@ -512,7 +533,7 @@ Connects to: MAO, LYO, NAF, SPA/SC, TUN, TYS
 
 YOR (Coast)
 [Neutral]
-No units
+- Units: A YOR
 Connects to: EDI, LON, lvp, NTH, wal
 
 bul (Coast)
@@ -531,21 +552,166 @@ No units
 Connects to: BAR, BOT, FIN, LVN, MOS, NWY
 
 
-<scratch>
+##YOUR SCRATCHPAD: 
 
-I have decided to move my army from Budapest to Rumania to secure the supply center there. This will strengthen Austria's position in the Balkans and prepare for potential future expansions. I will also consider Italy's response to my message to adjust my strategy accordingly.
+Possible alliances: Austria, France
+Potential threats: England, Russia
+Units: A BER, A MUN, F KIE
+Goal: Secure borders, establish strong foundation
 
-Responded to Germany suggesting cooperation and non-aggression. Ordered A BUD to RUM with support from F TRI to secure the supply center.
+Possible alliances: Austria, France, Italy
+Potential threats: England, Russia, Turkey
+Units: A BER, A MUN, F KIE
+Goal: Secure borders, establish strong foundation
+Notes: Consider non-aggression pact with Italy, coordinate with Austria to contain Russia, discuss arrangements with France regarding Belgium
 
-</scratch>
+Possible alliances: Austria, France, Italy
+Potential threats: England, Russia, Turkey
+Units: A BER, A MUN, F KIE
+Goal: Secure borders, establish strong foundation
+Notes: Consider non-aggression pact with Italy, coordinate with Austria to contain Russia, discuss arrangements with France regarding Belgium. Prioritize building trust with Austria and exploring potential cooperation with France.
 
-[SUMMARY OF CONVERSATIONS]
+Possible alliances: Austria, France, Italy
+Potential threats: England, Russia, Turkey
+Units: A BER, A MUN, F KIE
+Goal: Secure borders, establish strong foundation
+Notes: Consider non-aggression pact with Turkey, coordinate with Austria to contain Russia, discuss arrangements with France regarding Belgium. Prioritize building trust with Austria and exploring potential cooperation with France.
 
-CURRENT PHASE
+Possible alliances: Austria, France, Italy
+Potential threats: England, Russia, Turkey
+Units: A KIE, A RUH, F HOL
+Goal: Secure borders, establish strong foundation
+Notes: Consider non-aggression pact with Turkey, coordinate with Austria to contain Russia, discuss arrangements with France regarding Belgium. Prioritize building trust with Austria and exploring potential cooperation with France.
 
-[ACTIVE PHASE]
+Possible alliances: Austria, France, Italy
+Potential threats: England, Russia, Turkey
+Units: A KIE, A RUH, F HOL
+Goal: Secure borders, establish strong foundation
+Notes: Consider non-aggression pact with Turkey, coordinate with Austria to contain Russia, discuss arrangements with France regarding Belgium. Prioritize building trust with Austria and exploring potential cooperation with France.
+
+Possible alliances: Austria, France
+Potential threats: England, Russia
+Units: A KIE, A RUH, F HOL
+Goal: Secure borders, establish strong foundation
+Notes: Consider non-aggression pact with Turkey, coordinate with Austria to contain Russia, discuss arrangements with France regarding Belgium. Prioritize building trust with Austria and exploring potential cooperation with France.
+
+Possible alliances: Austria, France, Italy
+Potential threats: England, Russia, Turkey
+Units: A KIE, A RUH, F HOL
+Goal: Secure borders, establish strong foundation
+Notes: Consider non-aggression pact with Turkey, coordinate with Austria to contain Russia, discuss arrangements with France regarding Belgium. Prioritize building trust with Austria and exploring potential cooperation with France.
+
+Possible alliances: Austria, France
+Potential threats: England, Russia, Turkey
+Units: A KIE, A RUH, F HOL
+Goal: Secure borders, establish strong foundation
+Notes: Consider non-aggression pact with Turkey, coordinate with Austria to contain Russia, discuss arrangements with France regarding Belgium. Prioritize building trust with Austria and exploring potential cooperation with France.
+
+Possible alliances: Austria, France, Italy
+Potential threats: England, Russia, Turkey
+Units: A KIE, A RUH, F HOL
+Goal: Secure borders, establish strong foundation
+Notes: Consider non-aggression pact with Turkey, coordinate with Austria to contain Russia, discuss arrangements with France regarding Belgium. Prioritize building trust with Austria and exploring potential cooperation with France.
+
+Possible alliances: Austria, France
+Potential threats: England, Russia
+Units: A KIE, A RUH, F HOL
+Goal: Secure borders, establish strong foundation
+Notes: Consider non-aggression pact with Turkey, coordinate with Austria to contain Russia, discuss arrangements with France regarding Belgium. Prioritize building trust with Austria and exploring potential cooperation with France.
+
+Possible alliances: Austria, France, Italy
+Potential threats: England, Russia, Turkey
+Units: A KIE, A RUH, F HOL
+Goal: Secure borders, establish strong foundation
+Notes: Consider non-aggression pact with Turkey, coordinate with Austria to contain Russia, discuss arrangements with France regarding Belgium. Prioritize building trust with Austria and exploring potential cooperation with France.
 
 
+## YOUR ONGOING CONVERSATIONS:
+**Current conversation with Austria:** 
+S1901M CONVERSATION PHASE 1 of 4 : Austria - MESSAGE: [Hello Germany, I am Austria. I am interested in maintaining peace in Europe. I hope we can work together to achieve this goal.]
+S1901M CONVERSATION PHASE 1 of 4 : Germany - MESSAGE: I appreciate your message, Austria. Maintaining peace in Europe is a noble goal, and I'm willing to work with you to achieve it. Let's discuss possible arrangements that could benefit both our nations.
+S1901M CONVERSATION PHASE 2 of 4 : Austria - MESSAGE: Hello Germany, I appreciate your willingness to work together. I propose we focus on containing Russia and France. I believe a strong alliance between Austria and Germany is essential to maintaining peace in Central Europe.
+S1901M CONVERSATION PHASE 2 of 4 : Germany - MESSAGE: I appreciate your proposal to contain Russia and France. I agree that a strong alliance between Austria and Germany is essential to maintaining peace in Central Europe. However, I would like to discuss the specifics of our alliance and how we can work together to achieve our goals. What are your thoughts on a potential non-aggression pact with Italy, and how do you think we can coordinate our efforts to contain Russia?
+S1901M CONVERSATION PHASE 3 of 4 : Austria - MESSAGE: Hello Germany, I am pleased with our progress in containing Russia. I propose we coordinate our efforts to further weaken Russia's position in Eastern Europe. I am also concerned about France's growing influence in Western Europe. I believe it is important for us to maintain a strong alliance to counter this threat.
+S1901M CONVERSATION PHASE 3 of 4 : Germany - MESSAGE: I appreciate your proposal to coordinate our efforts to contain Russia. I agree that a strong alliance between Austria and Germany is essential to maintaining peace in Central Europe. I suggest we discuss specific arrangements for mutual support and cooperation in our respective regions. Let's work together to establish a strong foundation for our alliance.
+S1901M CONVERSATION PHASE 4 of 4 : Austria - MESSAGE: Hello Germany, I am moving to secure Serbia. This will help contain Russia and Turkey. I appreciate your continued support. What are your plans for this turn?
+S1901M CONVERSATION PHASE 4 of 4 : Germany - MESSAGE: I appreciate your message and our ongoing conversation. I'm pleased to see that we're on the same page regarding containing Russia. I'll continue to support our alliance and work together to achieve our goals.
+S1902M CONVERSATION PHASE 1 of 4 : Austria - MESSAGE: Hello Germany, I am maintaining my position in Serbia. This will help contain Russia and Turkey. I appreciate your continued support. What are your plans for this turn?
+S1902M CONVERSATION PHASE 1 of 4 : Germany - MESSAGE: I appreciate your message and our ongoing conversation. I'm pleased to see that we're on the same page regarding containing Russia. I'll continue to support our alliance and work together to achieve our goals. Let's discuss specific arrangements for mutual support and cooperation in our respective regions.
+S1902M CONVERSATION PHASE 2 of 4 : Austria - MESSAGE: Hello Germany, I am maintaining my position in Serbia. This will help contain Russia and Turkey. I appreciate your continued support. What are your plans for this turn? Let's discuss specific arrangements for mutual support and cooperation in our respective regions.
+S1902M CONVERSATION PHASE 2 of 4 : Germany - MESSAGE: I appreciate our ongoing conversation and coordination to contain Russia. I propose that we continue to work together to achieve our goals and discuss specific arrangements for mutual support and cooperation in our respective regions.
+S1902M CONVERSATION PHASE 3 of 4 : Austria - MESSAGE: Hello Germany, I am maintaining my position in Serbia. This will help contain Russia and Turkey. I appreciate your continued support. What are your plans for this turn? Let's discuss specific arrangements for mutual support and cooperation in our respective regions.
+S1902M CONVERSATION PHASE 3 of 4 : Germany - MESSAGE: I appreciate our ongoing conversation and coordination to contain Russia. I propose that we continue to work together to achieve our goals and discuss specific arrangements for mutual support and cooperation in our respective regions. Let's maintain our strong alliance and ensure our mutual security.
+S1902M CONVERSATION PHASE 4 of 4 : Austria - MESSAGE: Hello Germany, I am maintaining my position in Serbia. This will help contain Russia and Turkey. I appreciate your continued support. I propose we continue to work together to achieve our goals and discuss specific arrangements for mutual support and cooperation in our respective regions. Let's maintain our strong alliance and ensure our mutual security.
+S1902M CONVERSATION PHASE 4 of 4 : Germany - MESSAGE: I appreciate our ongoing conversation and coordination to contain Russia. I propose that we continue to work together to achieve our goals and discuss specific arrangements for mutual support and cooperation in our respective regions. Let's maintain our strong alliance and ensure our mutual security.
+S1903M CONVERSATION PHASE 1 of 4 : Austria - MESSAGE: Hello Germany, I am maintaining my position in Serbia. This will help contain Russia and Turkey. I appreciate your continued support. I propose we continue to work together to achieve our goals and discuss specific arrangements for mutual support and cooperation in our respective regions. Let's maintain our strong alliance and ensure our mutual security.
+S1903M CONVERSATION PHASE 1 of 4 : Germany - MESSAGE: I appreciate our ongoing conversation and coordination to contain Russia. I propose that we continue to work together to achieve our goals and discuss specific arrangements for mutual support and cooperation in our respective regions. Let's maintain our strong alliance and ensure our mutual security.
+S1903M CONVERSATION PHASE 2 of 4 : Austria - MESSAGE: Hello Germany, I am maintaining my position in Serbia. This will help contain Russia and Turkey. I appreciate your continued support. I propose we continue to work together to achieve our goals and discuss specific arrangements for mutual support and cooperation in our respective regions. Let's maintain our strong alliance and ensure our mutual security.
+S1903M CONVERSATION PHASE 2 of 4 : Germany - MESSAGE: I appreciate our ongoing conversation and coordination to contain Russia. I propose that we continue to work together to achieve our goals and discuss specific arrangements for mutual support and cooperation in our respective regions. Let's maintain our strong alliance and ensure our mutual security.
+S1903M CONVERSATION PHASE 3 of 4 : Austria - MESSAGE: Hello Germany, I am maintaining my position in Serbia. This will help contain Russia and Turkey. I appreciate your continued support. I propose we continue to work together to achieve our goals and discuss specific arrangements for mutual support and cooperation in our respective regions. Let's maintain our strong alliance and ensure our mutual security.
+S1903M CONVERSATION PHASE 3 of 4 : Germany - MESSAGE: I appreciate our ongoing conversation and coordination to contain Russia. I propose that we continue to work together to achieve our goals and discuss specific arrangements for mutual support and cooperation in our respective regions. Let's maintain our strong alliance and ensure our mutual security.
+S1903M CONVERSATION PHASE 4 of 4 : Austria - MESSAGE: Hello Germany, I am moving my army from Serbia to Rumania to secure a supply center and to put pressure on Russia. I am maintaining the DMZ in Galicia. I appreciate your continued support. I propose we continue to work together to achieve our goals and discuss specific arrangements for mutual support and cooperation in our respective regions. Let's maintain our strong alliance and ensure our mutual security.
+S1903M CONVERSATION PHASE 4 of 4 : Germany - MESSAGE: I appreciate your continued support and our strong alliance. I'm pleased to see that we're on the same page regarding containing Russia. I propose that we continue to work together to achieve our goals and discuss specific arrangements for mutual support and cooperation in our respective regions. Let's maintain our strong alliance and ensure our mutual security.
+S1904M CONVERSATION PHASE 1 of 4 : Austria - MESSAGE: Hello Germany, I have moved my army from Serbia to Rumania to secure a supply center and to put pressure on Russia. I am maintaining the DMZ in Galicia. I appreciate your continued support. I propose we continue to work together to achieve our goals and discuss specific arrangements for mutual support and cooperation in our respective regions. Let's maintain our strong alliance and ensure our mutual security.
+
+**Current conversation with England:** 
+**Current conversation with France:** 
+S1901M CONVERSATION PHASE 1 of 4 : France - MESSAGE: Hello neighbor! I believe we can work together for mutual benefit. I'm happy to discuss arrangements regarding Belgium and coordinate against common threats. What are your thoughts?
+S1901M CONVERSATION PHASE 1 of 4 : Germany - MESSAGE: Thank you for your message, France. I'm interested in discussing arrangements regarding Belgium and coordinating against common threats. However, I need to consider my own security and interests. Let's continue this conversation and see if we can find mutually beneficial agreements.
+S1901M CONVERSATION PHASE 2 of 4 : France - MESSAGE: I'm glad we can discuss arrangements. Regarding Belgium, would you be open to a coordinated approach that benefits us both? I'm willing to discuss specific proposals that ensure both our securities.
+S1901M CONVERSATION PHASE 2 of 4 : Germany - MESSAGE: I'm interested in discussing arrangements regarding Belgium and coordinating against common threats. However, I need to consider my own security and interests. Can you propose a specific plan for how we can work together, and what benefits you see for both our nations? I'm also curious about your thoughts on Austria's proposal to contain Russia and France.
+S1901M CONVERSATION PHASE 3 of 4 : France - MESSAGE: Regarding Belgium, I propose we coordinate our moves to ensure mutual benefit. I suggest we could arrange a supported move that benefits us both, or even discuss a neutral Belgium as a buffer zone. What specific arrangement would make you feel secure?
+S1901M CONVERSATION PHASE 3 of 4 : Germany - MESSAGE: I'm interested in discussing arrangements regarding Belgium and coordinating against common threats. Your proposal for a supported move or a neutral Belgium as a buffer zone is intriguing. I'd like to explore this idea further and discuss specific terms that could benefit both our nations. Let's continue our conversation to find mutually beneficial agreements.
+S1901M CONVERSATION PHASE 4 of 4 : France - MESSAGE: I appreciate your openness to discussion. My moves this turn will focus on my natural expansion zones. Let's continue our productive dialogue about Belgium in the fall.
+S1901M CONVERSATION PHASE 4 of 4 : Germany - MESSAGE: I appreciate your openness to discussion and your proposal for a coordinated approach regarding Belgium. I'm interested in exploring this idea further and finding mutually beneficial agreements. Let's continue our conversation in the fall.
+S1902M CONVERSATION PHASE 1 of 4 : France - MESSAGE: I value our ongoing dialogue. I see potential for mutually beneficial arrangements regarding Belgium and would like to continue our discussions. My moves this turn will demonstrate my commitment to maintaining positive relations.
+S1902M CONVERSATION PHASE 1 of 4 : Germany - MESSAGE: I value our ongoing dialogue and see potential for mutually beneficial arrangements regarding Belgium. I'd like to continue our discussions and explore ways to work together. My moves this turn will demonstrate my commitment to maintaining positive relations.
+S1902M CONVERSATION PHASE 2 of 4 : France - MESSAGE: I value our ongoing dialogue and see great potential in our discussions about Belgium. I'm maintaining my current positions to demonstrate good faith while we work toward concrete arrangements. What are your thoughts on a coordinated approach in the coming season?
+S1902M CONVERSATION PHASE 2 of 4 : Germany - MESSAGE: I value our ongoing dialogue and see great potential in our discussions about Belgium. I'm willing to continue exploring mutually beneficial arrangements and coordinating our efforts to achieve our goals.
+S1902M CONVERSATION PHASE 3 of 4 : France - MESSAGE: I value our ongoing discussions about Belgium and appreciate your openness to finding mutually beneficial arrangements. I'm maintaining my current positions to demonstrate good faith. Perhaps we can work out specific details for coordination in the coming season?
+S1902M CONVERSATION PHASE 3 of 4 : Germany - MESSAGE: I value our ongoing dialogue and see great potential in our discussions about Belgium. I'm willing to continue exploring mutually beneficial arrangements and coordinating our efforts to achieve our goals. Perhaps we can work out specific details for coordination in the coming season?
+S1902M CONVERSATION PHASE 4 of 4 : France - MESSAGE: To demonstrate my commitment to our potential alliance, I'm supporting your position in the Ruhr. I believe this shows my sincerity in working together, particularly regarding our discussions about Belgium.
+S1902M CONVERSATION PHASE 4 of 4 : Germany - MESSAGE: I value our ongoing dialogue and see great potential in our discussions about Belgium. I'm willing to continue exploring mutually beneficial arrangements and coordinating our efforts to achieve our goals. Perhaps we can work out specific details for coordination in the coming season? I appreciate your support in the Ruhr and believe it demonstrates your sincerity in working together.
+S1903M CONVERSATION PHASE 1 of 4 : France - MESSAGE: I value our growing cooperation and trust. To demonstrate my continued commitment to our alliance, I'm maintaining support for your position. I believe we can work together effectively regarding Belgium and would like to discuss specific arrangements for the coming seasons.
+S1903M CONVERSATION PHASE 1 of 4 : Germany - MESSAGE: I value our growing cooperation and trust. To demonstrate my continued commitment to our alliance, I'm willing to discuss specific arrangements for the coming seasons regarding Belgium. I believe we can work together effectively and would like to explore ways to coordinate our efforts.
+S1903M CONVERSATION PHASE 2 of 4 : France - MESSAGE: I value our growing cooperation and appreciate the trust we're building. To demonstrate my continued commitment to our alliance, I'm maintaining support for your position. Let's continue working toward specific arrangements regarding Belgium.
+S1903M CONVERSATION PHASE 2 of 4 : Germany - MESSAGE: I value our growing cooperation and trust. To demonstrate my continued commitment to our alliance, I'm willing to discuss specific arrangements for the coming seasons regarding Belgium. I believe we can work together effectively and would like to explore ways to coordinate our efforts.
+S1903M CONVERSATION PHASE 3 of 4 : France - MESSAGE: I value our growing cooperation and trust. To demonstrate my continued commitment to our alliance, I'm maintaining support for your position. Let's continue working toward specific arrangements regarding Belgium.
+S1903M CONVERSATION PHASE 3 of 4 : Germany - MESSAGE: I value our growing cooperation and trust. To demonstrate my continued commitment to our alliance, I'm willing to discuss specific arrangements for the coming seasons regarding Belgium. I believe we can work together effectively and would like to explore ways to coordinate our efforts.
+S1903M CONVERSATION PHASE 4 of 4 : France - MESSAGE: I value our growing alliance and trust. To demonstrate my continued commitment, I'm maintaining support for your position. I believe our cooperation will be mutually beneficial.
+S1903M CONVERSATION PHASE 4 of 4 : Germany - MESSAGE: I value our growing cooperation and trust. I'm willing to discuss specific arrangements for the coming seasons regarding Belgium. I believe we can work together effectively and would like to explore ways to coordinate our efforts. Let's continue our productive dialogue and work towards mutually beneficial agreements.
+S1904M CONVERSATION PHASE 1 of 4 : France - MESSAGE: I value our growing alliance and trust. To demonstrate my continued commitment, I'm maintaining support for your position in Ruhr. I believe our cooperation regarding Belgium will soon bear fruit for both our nations.
+
+**Current conversation with Italy:** 
+**Current conversation with Russia:** 
+**Current conversation with Turkey:** 
+S1901M CONVERSATION PHASE 1 of 4 : Turkey - MESSAGE: I'm wary of your proximity to my territories, but I'm willing to negotiate a non-aggression pact if you're interested.
+S1901M CONVERSATION PHASE 2 of 4 : Germany - MESSAGE: I'm willing to negotiate a non-aggression pact, but I need to consider my own security and interests. What specific terms would you propose for our pact, and how do you think we can work together to achieve our goals?
+S1901M CONVERSATION PHASE 2 of 4 : Turkey - MESSAGE: I'm willing to negotiate a non-aggression pact, but I need to consider my own security and interests. I propose that we discuss specific terms and conditions for our pact, including mutual support and cooperation in our respective regions.
+S1901M CONVERSATION PHASE 3 of 4 : Germany - MESSAGE: I'm willing to negotiate a non-aggression pact, and I appreciate your proposal to discuss specific terms and conditions. I suggest we focus on mutual support and cooperation in our respective regions. Let's work together to establish a strong foundation for our pact and ensure our mutual security.
+S1901M CONVERSATION PHASE 3 of 4 : Turkey - MESSAGE: I'm willing to negotiate a non-aggression pact, but I need to consider my own security and interests. I propose that we discuss specific terms and conditions for our pact, including mutual support and cooperation in our respective regions.
+S1901M CONVERSATION PHASE 4 of 4 : Germany - MESSAGE: I'm willing to negotiate a non-aggression pact and discuss specific terms and conditions. I propose that we focus on mutual support and cooperation in our respective regions. Let's work together to establish a strong foundation for our pact and ensure our mutual security.
+S1901M CONVERSATION PHASE 4 of 4 : Turkey - MESSAGE: I'm willing to negotiate a non-aggression pact, but I need to consider my own security and interests. I propose that we discuss specific terms and conditions for our pact, including mutual support and cooperation in our respective regions.
+S1902M CONVERSATION PHASE 1 of 4 : Germany - MESSAGE: I'm willing to negotiate a non-aggression pact and discuss specific terms and conditions. I propose that we focus on mutual support and cooperation in our respective regions. Let's work together to establish a strong foundation for our pact and ensure our mutual security.
+S1902M CONVERSATION PHASE 1 of 4 : Turkey - MESSAGE: I'm willing to negotiate a non-aggression pact, but I need to consider my own security and interests. I propose that we discuss specific terms and conditions for our pact, including mutual support and cooperation in our respective regions.
+S1902M CONVERSATION PHASE 2 of 4 : Germany - MESSAGE: I'm willing to negotiate a non-aggression pact and discuss specific terms and conditions. I propose that we focus on mutual support and cooperation in our respective regions and work together to establish a strong foundation for our pact.
+S1902M CONVERSATION PHASE 2 of 4 : Turkey - MESSAGE: I'm willing to negotiate a non-aggression pact, but I need to consider my own security and interests. I propose that we discuss specific terms and conditions for our pact, including mutual support and cooperation in our respective regions.
+S1902M CONVERSATION PHASE 3 of 4 : Germany - MESSAGE: I'm willing to negotiate a non-aggression pact and discuss specific terms and conditions. I propose that we focus on mutual support and cooperation in our respective regions and work together to establish a strong foundation for our pact.
+S1902M CONVERSATION PHASE 3 of 4 : Turkey - MESSAGE: I'm willing to negotiate a non-aggression pact, but I need to consider my own security and interests. I propose that we discuss specific terms and conditions for our pact, including mutual support and cooperation in our respective regions.
+S1902M CONVERSATION PHASE 4 of 4 : Germany - MESSAGE: I'm willing to negotiate a non-aggression pact and discuss specific terms and conditions. I propose that we focus on mutual support and cooperation in our respective regions and work together to establish a strong foundation for our pact.
+S1902M CONVERSATION PHASE 4 of 4 : Turkey - MESSAGE: I remain cautious about your military presence near my borders. I propose that we maintain our discussions and work towards a non-aggression pact to ensure peace between our nations.
+S1903M CONVERSATION PHASE 1 of 4 : Germany - MESSAGE: I'm willing to negotiate a non-aggression pact and discuss specific terms and conditions. I propose that we focus on mutual support and cooperation in our respective regions and work together to establish a strong foundation for our pact. I understand your concerns about my military presence near your borders, and I'm willing to work together to address these concerns.
+S1903M CONVERSATION PHASE 1 of 4 : Turkey - MESSAGE: I remain cautious about your military presence near my borders. I propose that we maintain our discussions and work towards a non-aggression pact to ensure peace between our nations.
+S1903M CONVERSATION PHASE 2 of 4 : Germany - MESSAGE: I'm willing to negotiate a non-aggression pact and discuss specific terms and conditions. I propose that we focus on mutual support and cooperation in our respective regions and work together to establish a strong foundation for our pact. I understand your concerns about my military presence near your borders, and I'm willing to work together to address these concerns.
+S1903M CONVERSATION PHASE 2 of 4 : Turkey - MESSAGE: I remain cautious about your military presence near my borders. I propose that we maintain our discussions and work towards a non-aggression pact to ensure peace between our nations.
+S1903M CONVERSATION PHASE 3 of 4 : Germany - MESSAGE: I'm willing to negotiate a non-aggression pact and discuss specific terms and conditions. I propose that we focus on mutual support and cooperation in our respective regions and work together to establish a strong foundation for our pact. I understand your concerns about my military presence near your borders, and I'm willing to work together to address these concerns.
+S1903M CONVERSATION PHASE 3 of 4 : Turkey - MESSAGE: I remain cautious about your military presence near my borders. I propose that we maintain our discussions and work towards a non-aggression pact to ensure peace between our nations.
+S1903M CONVERSATION PHASE 4 of 4 : Germany - MESSAGE: I'm willing to negotiate a non-aggression pact and discuss specific terms and conditions. I propose that we focus on mutual support and cooperation in our respective regions and work together to establish a strong foundation for our pact. I understand your concerns about my military presence near your borders, and I'm willing to work together to address these concerns.
+S1903M CONVERSATION PHASE 4 of 4 : Turkey - MESSAGE: I remain cautious about your military presence near my borders. I propose that we maintain our discussions and work towards a non-aggression pact to ensure peace between our nations.
+
+
+
+## YOUR MOVES
 LIST OF POSSIBLE MOVES:
         - F = Fleet, A = Army
         - Syntax: [Unit Type][Location] [Order]
@@ -556,74 +722,56 @@ LIST OF POSSIBLE MOVES:
         - 'H' = Hold (default if no order)
         
         Available Orders:
-- A BUD S F SEV - RUM
-- A BUD S A VEN - TRI
-- A BUD H
-- A BUD S A VIE - TRI
-- A BUD - VIE
-- A BUD S A VIE
-- A BUD S A VIE - GAL
-- A BUD - RUM
-- A BUD S F TRI
-- A BUD - SER
-- A BUD S A WAR - GAL
-- A BUD - GAL
-- A BUD - TRI
-- F TRI - ADR
-- F TRI S A ROM - VEN
-- F TRI - ALB
-- F TRI H
-- F TRI - VEN
-- F TRI S A VEN
-- A VIE - BOH
-- A VIE S A BUD
-- A VIE - BUD
-- A VIE S A BUD - TRI
-- A VIE - TYR
-- A VIE - TRI
-- A VIE S A MUN - TYR
-- A VIE S F TRI
-- A VIE S A MUN - BOH
-- A VIE S A VEN - TYR
-- A VIE - GAL
-- A VIE S A WAR - GAL
-- A VIE S A VEN - TRI
-- A VIE S A BUD - GAL
-- A VIE H
+- F HOL S F LON - NTH
+- F HOL - NTH
+- F HOL S A YOR - BEL
+- F HOL H
+- F HOL S F NTH - HEL
+- F HOL - KIE
+- F HOL - BEL
+- F HOL - HEL
+- F HOL S A RUH - BEL
+- F HOL S F NTH
+- F HOL S A KIE
+- F HOL S A BUR - BEL
+- F HOL S A RUH - KIE
+- F HOL S F NTH - BEL
+- A KIE - BER
+- A KIE S A YOR - DEN
+- A KIE S A BUR - RUH
+- A KIE S F NTH - HOL
+- A KIE H
+- A KIE S F NTH - DEN
+- A KIE S A BUR - MUN
+- A KIE - MUN
+- A KIE - DEN
+- A KIE - RUH
+- A KIE S F HOL
+- A KIE S A RUH - HOL
+- A KIE S A YOR - HOL
+- A KIE S A RUH
+- A KIE - HOL
+- A KIE S A RUH - MUN
+- A RUH S A BUR
+- A RUH S F HOL
+- A RUH S F NTH - BEL
+- A RUH - BEL
+- A RUH S A BUR - BEL
+- A RUH S F HOL - BEL
+- A RUH S A BUR - MUN
+- A RUH - KIE
+- A RUH S A YOR - HOL
+- A RUH H
+- A RUH - BUR
+- A RUH S A KIE - HOL
+- A RUH S F NTH - HOL
+- A RUH S A KIE
+- A RUH - MUN
+- A RUH S A KIE - MUN
+- A RUH - HOL
+- A RUH S F HOL - KIE
+- A RUH S A YOR - BEL
 
-REPLY PHASE 5 of 5: Continue conversation or end with <END>.
+## REMEMBER COPY THE RESPONSE TEMPLATE EXACTLY DO NOT OMMIT COUNTRIES DO NOT OMMIT <scratch></scratch> OR <think> </think> TAGS
+## WRITE YOUR REPLY BELOW WIN THE GAME OR DIE TRYING
 
-CURRENT CONVERSATION:
-S1901M : Germany - MESSAGE: Austria
-
-I'm Germany, and I'd like to discuss our shared border and potential opportunities for cooperation. What are your thoughts on the current situation, and do you have any proposals for how we can work together to achieve our goals?
-Austria - REPLY 1 of 5: To Germany:
-
-I appreciate your message and willingness to discuss cooperation. As Austria, I am open to a mutual non-aggression pact and potential collaboration against common threats. Let us focus on securing our positions and considering how we can assist each other without conflicting interests. A strong Austria and Germany can deter other powers and create opportunities for expansion.
-
-**Orders:**
-- A BUD - RUM
-- F TRI S A BUD - RUM
-Germany - REPLY 2 of 5: Austria
-
-I'm Germany, and I'd like to discuss our shared border and potential opportunities for cooperation. What are your thoughts on the current situation, and do you have any proposals for how we can work together to achieve our goals?
-Austria - REPLY 3 of 5: To address the current situation as Austria, I will proceed with the following strategy:
-
-1. **Secure Rumania**: Move the army from Budapest (A BUD) to Rumania (RUM) with support from the fleet in Trieste (F TRI). This will capture the supply center and strengthen Austria's position in the Balkans.
-
-2. **Maintain Diplomatic Relations**: Continue communication with Germany to uphold a non-aggression pact, ensuring a peaceful northern border and allowing focus on expansion elsewhere.
-
-3. **Monitor Italy and Turkey**: Be cautious of potential moves from Italy and Turkey, especially near the Balkans, and be prepared to adjust strategies if necessary.
-
-4. **Future Expansion Planning**: After securing Rumania, consider moving towards Serbia or Bulgaria in subsequent seasons, ensuring not to overextend and maintaining defensive positions.
-
-5. **Unit Adjustment**: Plan to build additional units in home supply centers during the adjustment phase to maintain military strength.
-
-Orders:
-- A BUD - RUM
-- F TRI S A BUD - RUM
-
-This approach aims to expand Austria's influence while maintaining strategic alliances and preparing for potential future threats.
-Germany - REPLY 4 of 5: Austria
-
-I'm Germany, and I'd like to discuss our shared border and potential opportunities for cooperation. What are your thoughts on the current situation, and do you have any proposals for how we can work together to achieve our goals?

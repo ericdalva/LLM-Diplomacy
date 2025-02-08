@@ -1,4 +1,811 @@
 
-I have decided to move my army from Budapest to Rumania to secure the supply center there. This will strengthen Austria's position in the Balkans and prepare for potential future expansions. I will also consider Italy's response to my message to adjust my strategy accordingly.
+DMZ with Italy in Venice and Tyrol.
+DMZ with Turkey in Serbia.
+DMZ with Russia in Galicia.
 
-Responded to Germany suggesting cooperation and non-aggression. Ordered A BUD to RUM with support from F TRI to secure the supply center.
+DMZ with Italy in Venice and Tyrol.
+DMZ with Turkey in Serbia.
+DMZ with Russia in Galicia.
+
+Long-term goals:
+1. Secure the Balkans
+2. Expand into Italy or Turkey
+3. Form a strong alliance with Germany
+
+Potential threats:
+1. Italy
+2. Turkey
+3. Russia
+
+Allies:
+1. Germany
+2. France
+
+DMZ with Italy in Venice and Tyrol.
+DMZ with Turkey in Serbia.
+DMZ with Russia in Galicia.
+
+Long-term goals:
+1. Secure the Balkans
+2. Expand into Italy or Turkey
+3. Form a strong alliance with Germany
+
+Potential threats:
+1. Italy
+2. Turkey
+3. Russia
+
+Allies:
+1. Germany
+2. France
+
+A BUD - SER: Secure Serbia, a key supply center.
+F TRI - ALB: Position the fleet to support further expansion in the Adriatic.
+A VIE S A BUD - SER: Support the army in Budapest to move into Serbia.
+
+Germany: Contain Russia and France.
+Italy: Explore alliance possibilities, contain Turkey.
+Russia: Maintain DMZ in Galicia.
+Turkey: Consider non-aggression pact.
+France: Contain Germany.
+
+DMZ with Italy in Venice and Tyrol.
+DMZ with Turkey in Serbia.
+DMZ with Russia in Galicia.
+
+Long-term goals:
+1. Secure the Balkans
+2. Expand into Italy or Turkey
+3. Form a strong alliance with Germany
+
+Potential threats:
+1. Italy
+2. Turkey
+3. Russia
+
+Allies:
+1. Germany
+2. France
+
+A BUD - SER: Secure Serbia, a key supply center.
+F TRI - ALB: Position the fleet to support further expansion in the Adriatic.
+A VIE S A BUD - SER: Support the army in Budapest to move into Serbia.
+
+Germany: Contain Russia and France.
+Italy: Explore alliance possibilities, contain Turkey.
+Russia: Maintain DMZ in Galicia.
+Turkey: Consider non-aggression pact.
+France: Contain Germany.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+DMZ with Italy in Venice and Tyrol.
+DMZ with Turkey in Serbia.
+DMZ with Russia in Galicia.
+
+Long-term goals:
+1. Secure the Balkans
+2. Expand into Italy or Turkey
+3. Form a strong alliance with Germany
+
+Potential threats:
+1. Italy
+2. Turkey
+3. Russia
+
+Allies:
+1. Germany
+4. France
+
+A BUD - SER: Secure Serbia, a key supply center.
+F TRI - ALB: Position the fleet to support further expansion in the Adriatic.
+A VIE S A BUD - SER: Support the army in Budapest to move into Serbia.
+
+Germany: Contain Russia and France.
+Italy: Explore alliance possibilities, contain Turkey.
+Russia: Maintain DMZ in Galicia.
+Turkey: Consider non-aggression pact.
+France: Contain Germany.
+
+DMZ with Italy in Venice and Tyrol.
+DMZ with Turkey in Serbia.
+DMZ with Russia in Galicia.
+
+Long-term goals:
+1. Secure the Balkans
+2. Expand into Italy or Turkey
+3. Form a strong alliance with Germany
+
+Potential threats:
+1. Italy
+2. Turkey
+3. Russia
+
+Allies:
+1. Germany
+4. France
+
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+Germany: Contain Russia and France.
+Italy: Explore alliance possibilities, contain Turkey.
+Russia: Maintain DMZ in Galicia.
+Turkey: Consider non-aggression pact.
+France: Contain Germany.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+DMZ with Italy in Venice and Tyrol.
+DMZ with Turkey in Serbia.
+DMZ with Russia in Galicia.
+
+Long-term goals:
+1. Secure the Balkans
+2. Expand into Italy or Turkey
+3. Form a strong alliance with Germany
+
+Potential threats:
+1. Italy
+2. Turkey
+3. Russia
+
+Allies:
+1. Germany
+2. France
+
+A SER H: Secure Serbia, a key supply center.
+F ALB - ADR: Position the fleet to support further expansion in the Adriatic.
+A VIE S A SER H: Support the army in Serbia to hold.
+
+Germany: Contain Russia and France.
+Italy: Explore alliance possibilities, contain Turkey.
+Russia: Maintain DMZ in Galicia.
+Turkey: Consider non-aggression pact.
+France: Contain Germany.
+
+DMZ with Italy in Venice and Tyrol.
+DMZ with Turkey in Serbia.
+DMZ with Russia in Galicia.
+
+Long-term goals:
+1. Secure the Balkans
+2. Expand into Italy or Turkey
+3. Form a strong alliance with Germany
+
+Potential threats:
+1. Italy
+2. Turkey
+3. Russia
+
+Allies:
+1. Germany
+2. France
+
+A SER H: Secure Serbia, a key supply center.
+F ALB - ADR: Position the fleet to support further expansion in the Adriatic.
+A VIE S A SER H: Support the army in Serbia to hold.
+
+Germany: Contain Russia and France.
+Italy: Explore alliance possibilities, contain Turkey.
+Russia: Maintain DMZ in Galicia.
+Turkey: Consider non-aggression pact.
+France: Contain Germany.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+DMZ with Italy in Venice and Tyrol.
+DMZ with Turkey in Serbia.
+DMZ with Russia in Galicia.
+
+Long-term goals:
+1. Secure the Balkans
+2. Expand into Italy or Turkey
+3. Form a strong alliance with Germany
+
+Potential threats:
+1. Italy
+2. Turkey
+3. Russia
+
+Allies:
+1. Germany
+4. France
+
+A SER H: Secure Serbia, a key supply center.
+F ALB - ADR: Position the fleet to support further expansion in the Adriatic.
+A VIE S A SER H: Support the army in Serbia to hold.
+
+Germany: Contain Russia and France.
+Italy: Explore alliance possibilities, contain Turkey.
+Russia: Maintain DMZ in Galicia.
+Turkey: Consider non-aggression pact.
+France: Contain Germany.
+
+DMZ with Italy in Venice and Tyrol.
+DMZ with Turkey in Serbia.
+DMZ with Russia in Galicia.
+
+Long-term goals:
+1. Secure the Balkans
+2. Expand into Italy or Turkey
+3. Form a strong alliance with Germany
+
+Potential threats:
+1. Italy
+2. Turkey
+3. Russia
+
+Allies:
+1. Germany
+4. France
+
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+Germany: Contain Russia and France.
+Italy: Explore alliance possibilities, contain Turkey.
+Russia: Maintain DMZ in Galicia.
+Turkey: Consider non-aggression pact.
+France: Contain Germany.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+Offer Trieste to Italy for a full alliance.
+Offer Rumania to Turkey for a full alliance.
+
+DMZ with Italy in Venice and Tyrol.
+DMZ with Turkey in Serbia.
+DMZ with Russia in Galicia.
+
+Long-term goals:
+1. Secure the Balkans
+2. Expand into Italy or Turkey
+3. Form a strong alliance with Germany
+
+Potential threats:
+1. Italy
+2. Turkey
+3. Russia
+
+Allies:
+1. Germany
+2. France
+
+A SER H: Secure Serbia, a key supply center.
+F ALB - ADR: Position the fleet to support further expansion in the Adriatic.
+A VIE S A SER H: Support the army in Serbia to hold.
+
+Germany: Contain Russia and France.
+Italy: Explore alliance possibilities, contain Turkey.
+Russia: Maintain DMZ in Galicia.
+Turkey: Consider non-aggression pact.
+France: Contain Germany.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+Offer Trieste to Italy for a full alliance.
+Offer Rumania to Turkey for a full alliance.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+Offer Trieste to Italy for a full alliance.
+Offer Rumania to Turkey for a full alliance.
+
+DMZ with Italy in Venice and Tyrol.
+DMZ with Turkey in Serbia.
+DMZ with Russia in Galicia.
+
+Long-term goals:
+1. Secure the Balkans
+2. Expand into Italy or Turkey
+3. Form a strong alliance with Germany
+
+Potential threats:
+1. Italy
+2. Turkey
+3. Russia
+
+Allies:
+1. Germany
+2. France
+
+A SER H: Secure Serbia, a key supply center.
+F ALB - ADR: Position the fleet to support further expansion in the Adriatic.
+A VIE S A SER H: Support the army in Serbia to hold.
+
+Germany: Contain Russia and France.
+Italy: Explore alliance possibilities, contain Turkey.
+Russia: Maintain DMZ in Galicia.
+Turkey: Consider non-aggression pact.
+France: Contain Germany.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+Offer Trieste to Italy for a full alliance.
+Offer Rumania to Turkey for a full alliance.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+S1903:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+Offer Trieste to Italy for a full alliance.
+Offer Rumania to Turkey for a full alliance.
+
+DMZ with Italy in Venice and Tyrol.
+DMZ with Turkey in Serbia.
+DMZ with Russia in Galicia.
+
+Long-term goals:
+1. Secure the Balkans
+2. Expand into Italy or Turkey
+3. Form a strong alliance with Germany
+
+Potential threats:
+1. Italy
+2. Turkey
+3. Russia
+
+Allies:
+1. Germany
+2. France
+
+A SER H: Secure Serbia, a key supply center.
+F ALB - ADR: Position the fleet to support further expansion in the Adriatic.
+A VIE S A SER H: Support the army in Serbia to hold.
+
+Germany: Contain Russia and France.
+Italy: Explore alliance possibilities, contain Turkey.
+Russia: Maintain DMZ in Galicia.
+Turkey: Consider non-aggression pact.
+France: Contain Germany.
+
+DMZ with Italy in Venice and Tyrol.
+DMZ with Turkey in Serbia.
+DMZ with Russia in Galicia.
+
+Long-term goals:
+1. Secure the Balkans
+2. Expand into Italy or Turkey
+3. Form a strong alliance with Germany
+
+Potential threats:
+1. Italy
+2. Turkey
+3. Russia
+
+Allies:
+1. Germany
+2. France
+
+A SER H: Secure Serbia, a key supply center.
+F ALB - ADR: Position the fleet to support further expansion in the Adriatic.
+A VIE S A SER H: Support the army in Serbia to hold.
+
+Germany: Contain Russia and France.
+Italy: Explore alliance possibilities, contain Turkey.
+Russia: Maintain DMZ in Galicia.
+Turkey: Consider non-aggression pact.
+France: Contain Germany.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+S1903:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+Offer Trieste to Italy for a full alliance.
+Offer Rumania to Turkey for a full alliance.
+
+DMZ with Italy in Venice and Tyrol.
+DMZ with Turkey in Serbia.
+DMZ with Russia in Galicia.
+
+Long-term goals:
+1. Secure the Balkans
+2. Expand into Italy or Turkey
+3. Form a strong alliance with Germany
+
+Potential threats:
+1. Italy
+2. Turkey
+3. Russia
+
+Allies:
+1. Germany
+2. France
+
+A SER H: Secure Serbia, a key supply center.
+F ALB - ADR: Position the fleet to support further expansion in the Adriatic.
+A VIE S A SER H: Support the army in Serbia to hold.
+
+Germany: Contain Russia and France.
+Italy: Explore alliance possibilities, contain Turkey.
+Russia: Maintain DMZ in Galicia.
+Turkey: Consider non-aggression pact.
+France: Contain Germany.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+S1903:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+Offer Trieste to Italy for a full alliance.
+Offer Rumania to Turkey for a full alliance.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+S1903:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+Offer Trieste to Italy for a full alliance.
+Offer Rumania to Turkey for a full alliance.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+S1903:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+Offer Trieste to Italy for a full alliance.
+Offer Rumania to Turkey for a full alliance.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+S1903:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+Offer Trieste to Italy for a full alliance.
+Offer Rumania to Turkey for a full alliance.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+S1903:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+Offer Trieste to Italy for a full alliance.
+Offer Rumania to Turkey for a full alliance.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+S1903:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+Offer Trieste to Italy for a full alliance.
+Offer Rumania to Turkey for a full alliance.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+S1903:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+Offer Trieste to Italy for a full alliance.
+Offer Rumania to Turkey for a full alliance.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+S1903:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+Offer Trieste to Italy for a full alliance.
+Offer Rumania to Turkey for a full alliance.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+S1903:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+Offer Trieste to Italy for a full alliance.
+Offer Rumania to Turkey for a full alliance.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+S1903:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+Offer Trieste to Italy for a full alliance.
+Offer Rumania to Turkey for a full alliance.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+S1903:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+Offer Trieste to Italy for a full alliance.
+Offer Rumania to Turkey for a full alliance.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+S1903:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+Offer Trieste to Italy for a full alliance.
+Offer Rumania to Turkey for a full alliance.
+
+DMZ with Italy in Venice and Tyrol.
+DMZ with Russia in Galicia.
+
+Long-term goals:
+1. Secure the Balkans
+2. Expand into Italy or Turkey
+3. Form a strong alliance with Germany
+
+Potential threats:
+1. Italy
+2. Turkey
+3. Russia
+
+Allies:
+1. Germany
+2. France
+
+A SER - RUM: Secure Rumania, a key supply center.
+F ALB - ION: Position the fleet to support further expansion in the Balkans.
+A VIE H: Hold Vienna to defend against attack.
+
+Germany: Contain Russia and France.
+Italy: Explore alliance possibilities, contain Turkey.
+Russia: Maintain DMZ in Galicia.
+Turkey: Consider non-aggression pact.
+France: Contain Germany.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+S1903:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+S1904:
+A SER - RUM
+F ALB - ION
+A VIE H
+
+Offer Trieste to Italy for a full alliance.
+Offer Rumania to Turkey for a full alliance.
+
+S1901:
+A BUD - SER
+F TRI - ALB
+A VIE S A BUD - SER
+
+S1902:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+S1903:
+A SER H
+F ALB - ADR
+A VIE S A SER H
+
+S1904:
+A SER - RUM
+F ALB - ION
+A VIE H
+
+S1905:
+F ION - ADR
+A RUM H
+A VIE H
+
+Offer Trieste to Italy for a full alliance.
+Offer Rumania to Turkey for a full alliance.
+
+DMZ with Italy in Venice and Tyrol.
+DMZ with Turkey in Serbia.
+DMZ with Russia in Galicia.
+
+Long-term goals:
+1. Secure the Balkans
+2. Expand into Italy or Turkey
+3. Form a strong alliance with Germany
+
+Potential threats:
+1. Italy
+2. Turkey
+3. Russia
+
+Allies:
+1. Germany
+2. France
